@@ -6,5 +6,4 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'hale\\i\\' => array($baseDir . '/src/i/lib'),
 );

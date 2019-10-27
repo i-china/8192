@@ -1,6 +1,13 @@
 {
-    "name": "8192/hale",
-    "description": "hale",
+    "name": "root/8192",
+    "description": "study",
+    "type": "library",
+    "require": {
+        "php": ">=5.7"
+    },
+    "require-dev": {
+        "php-64bit": ">=1.0"
+    },
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +15,5 @@
             "email": "Aspire_8@163.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "stable"
 }
